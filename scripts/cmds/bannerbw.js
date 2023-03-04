@@ -34,7 +34,7 @@ module.exports = {
     message.reply(`I am initiating pictures, please wait...`);
     const pathsave = __dirname + `/cache/bannerbw${Date.now()}.jpg`;
     
-    axios.get("https://goatbot.tk/taoanhdep/banner-black-white?"+params, {
+    axios.get("https://reybot.tk/taoanhdep/banner-black-white?"+params, {
       responseType: "arraybuffer"
     })
     .then(data => {
