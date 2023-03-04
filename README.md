@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/reybot-ver10/Reybot">
-        <img src="https://imgur.com/a/1JMZeLB" alt="Rey Bot">
+        <img src="https://i.postimg.cc/wMZwrgt4/Untitled1-20230304111800.png" alt="Rey Bot">
     </a>
 
 <h3 align="center">REY BOT</h3>
