@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/reybot-ver10/Reybot">
-        <img src="https://imgur.com/a/1JMZeLB" alt="Rey Bot">
+        <img src="https://i.postimg.cc/wMZwrgt4/Untitled1-20230304111800.png" alt="Rey Bot">
     </a>
 
 <h3 align="center">REY BOT</h3>
@@ -25,7 +25,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-    <summary>Table of Contents</summary>
+    <summary>TABLE OF CONTENTS</summary>
     <ol>
         <li><a href="#INTRODUCE">INTRODUCE</a></li>
         <li><a href="#INSTALLATION">INSTALLATION</a></li>

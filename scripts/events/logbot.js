@@ -19,7 +19,7 @@ module.exports = {
 	start: async ({ globalGoat, args, allUserData, message, event, api, client }) => {
 
 		if (!globalGoat.configCommands.envEvents.logsbot.logsbot) return;
-		let msg = "====== Rey Bot ======";
+		let msg = "====== Nhật ký bot ======";
 		const { author, threadID } = event;
 		if (author == globalGoat.botID) return;
 		let threadName;
@@ -47,4 +47,4 @@ module.exports = {
 
 		api.sendMessage(msg, globalGoat.config.adminBot[0]);
 	}
-}; at
+};

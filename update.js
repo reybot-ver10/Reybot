@@ -43,6 +43,6 @@
 		}
 	}
 
-	const packageJson = (await axios.get("https://github.com/ntkhang03/Goat-Bot/raw/main/package.json")).data;
+	const packageJson = (await axios.get("https://github.com/reybot-ver10/Reybot/raw/main/package.json")).data;
 	fs.writeFileSync(__dirname + "/package.json", JSON.stringify(packageJson, null, 2));
 })();
