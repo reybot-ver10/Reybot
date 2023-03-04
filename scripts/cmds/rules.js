@@ -31,7 +31,7 @@ module.exports = {
     const { senderID, threadID, messageID } = event;
     
     const pathImgRules = __dirname + "/database/rules.png";
-    if (!fs.existsSync(pathImgRules)) await download("https://github.com/ntkhang03/resources-goat-bot/raw/master/image/rule.png", pathImgRules);
+    if (!fs.existsSync(pathImgRules)) await download("https://github.com/reybot-ver10/resources-reybot/raw/master/image/rule.png", pathImgRules);
     var type = args[0];
     var dataOfThread = (await threadsData.getData(threadID)).data;
     if (!dataOfThread.rules) {
