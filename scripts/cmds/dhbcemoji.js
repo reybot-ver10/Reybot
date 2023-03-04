@@ -17,7 +17,7 @@ module.exports = {
   start: async function({ globalGoat, message, event, download }) {
     const axios = require("axios");
     const fs = require("fs-extra");
-    const datagame = (await axios.get("https://goatbot.tk/api/duoihinhbatchuemoji")).data;
+    const datagame = (await axios.get("https://reybot.tk/api/duoihinhbatchuemoji")).data;
     const random = datagame.data;
     message.reply(`Please reply to this message with the answer\n${random.emoji1}${random.emoji2}\n${random.wordcomplete.replace(/\S/g, "█ ")}`, 
     (err, info) => globalGoat.whenReply[info.messageID] = {
