@@ -1,8 +1,9 @@
 {
-	"email": "",
-	"password": "",
+	"email": "fernandezjohnrey291@gmail.com",
+	"password": "REYBOT@23",
 	"adminOnly": false,
-	"adminBot": [],
+	"adminBot": [100081837309327],
+	
 	"nickNameBot": "",
 	"prefix": "/",
 	"database": {
