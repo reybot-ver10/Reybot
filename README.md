@@ -25,7 +25,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-    <summary>Table of Contents</summary>
+    <summary>TABLE OF CONTENTS</summary>
     <ol>
         <li><a href="#INTRODUCE">INTRODUCE</a></li>
         <li><a href="#INSTALLATION">INSTALLATION</a></li>
