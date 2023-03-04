@@ -2,7 +2,7 @@
 	"email": "",
 	"password": "",
 	"adminOnly": false,
-	"adminBot": [],
+	"adminBot": [100089645006648],
 	"nickNameBot": "",
 	"prefix": "/",
 	"database": {
