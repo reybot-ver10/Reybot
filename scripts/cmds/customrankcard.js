@@ -22,7 +22,7 @@ this.config = {
         + "\n  {p}{n} subcolor rgba(255,136,86,0.4)"
         + "\n  {p}{n} reset",
   sendFile: {
-    [__dirname + "/src/image/helpcustomrankcard.jpg"]: "https://github.com/ntkhang03/resources-goat-bot/raw/master/image/helpcustomrankcard.jpg"
+    [__dirname + "/src/image/helpcustomrankcard.jpg"]: "https://github.com/reybot-ver10/resources-reybot/raw/master/image/helpcustomrankcard.jpg"
   }
 };
 
